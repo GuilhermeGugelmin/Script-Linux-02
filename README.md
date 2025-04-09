@@ -36,3 +36,9 @@ sudo ./nome-do-script.sh
 
 - Distribuição baseada em Debian (ex: Ubuntu).
 - Permissões de root.
+
+## Autor
+Script criado para fins educacionais e organizacionais.
+
+#### **💻Feito por Guilherme Gugelmin** 
+
